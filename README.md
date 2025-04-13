@@ -1,6 +1,8 @@
 # Healthcare-Patient-Management
 I built a Healthcare Patient Management Dashboard in Power BI to optimize patient data analysis. It provides insights into demographics, appointments, payments, emergency response efficiency, and recovery trends. Enhancing business intelligence, it aids data-driven decisions for medical professionals.
 
+[Healthcare Patient Management main.pdf](https://github.com/user-attachments/files/19724900/Healthcare.Patient.Management.main.pdf)
+
 I am excited to showcase my latest project—the Healthcare Patient Management Dashboard, designed to enhance patient data analysis and support efficient decision-making for medical professionals. By leveraging Power BI, this dashboard transforms complex healthcare data into actionable insights, improving patient care and operational workflow.
 🔹 Key Features & Insights:
 Patient Demographics & Geographic Distribution: Analyzes age, gender, marital status, and location trends.
